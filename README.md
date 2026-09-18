@@ -5,7 +5,7 @@ A full-stack CRUD notes application built with MongoDB, Express, React (Vite), a
 ## Candidate Details
 - **Name:** _<K.Charan Simha Reddy>_
 - **Student ID:** _<2026201034>_
-- **GitHub Repository:** _https://github.com/charan18269/MERN-Lab-Notes-App.git_
+- **GitHub Repository:** https://github.com/charan18269/MERN-Lab-Notes-App
 
 ## Tech Stack
 - **Frontend:** React (Vite), Axios
